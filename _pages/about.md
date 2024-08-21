@@ -25,10 +25,14 @@ I love experimenting with new AI applications and diving into the latest tools a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
-[Book Warehousing System]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://github.com/chenyzzn/BookWarehousingSystem))
+**Using PHP, MySQL**
+- Developed a comprehensive online library system using PHP, CSS, and HTML, with a MySQL database.
+- The system included robust backend functionalities such as administrator account management, inventory tracking, and member data management. On the client side, the system featured secure account registration and login, a fully integrated shopping cart, and seamless payment processing.
+- Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
+  
+[Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL**
 - Developed a comprehensive online library system using PHP, CSS, and HTML, with a MySQL database.
@@ -45,12 +49,13 @@ I love experimenting with new AI applications and diving into the latest tools a
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a>  Department of Transportation & Logistics Management
+Sept. 2021 - Present 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a>  Department of Transportation & Logistics Management
+May 2024 - Present 
