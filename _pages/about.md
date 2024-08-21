@@ -18,16 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a adventurous individual who loves exploring new things. I have a bountiful interest in AI, big data science, and software development. 
-
-# Educations
-National Yang Ming Chiao Tung University             Sept. 2021 - Present
-Department of Transportation & Logistics Management
-Cunulative GPA: 3.45, Last60 GPA: 3.92
-
-# Internships
- <a href='https://www.itri.org.tw/english/'> Industrial Technology Research Institute
-May 2024 - Present
-Technology Logistics Engineer
   
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -51,8 +41,18 @@ Technology Logistics Engineer
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  
+# Educations
+National Yang Ming Chiao Tung University             Sept. 2021 - Present
+Department of Transportation & Logistics Management
+Cunulative GPA: 3.45, Last60 GPA: 3.92
 
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# Internships
+ <a href='https://www.itri.org.tw/english/'> Industrial Technology Research Institute
+May 2024 - Present
+Technology Logistics Engineer
