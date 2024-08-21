@@ -25,7 +25,8 @@ Department of Transportation & Logistics Management
 Cunulative GPA: 3.45, Last60 GPA: 3.92
 
 # Internships
- <a href='https://www.itri.org.tw/english/'>  <h2>Industrial Technology Research Institute</h2>           May 2024 - Present
+ <a href='https://www.itri.org.tw/english/'> Industrial Technology Research Institute
+May 2024 - Present
 Technology Logistics Engineer
   
 # News
