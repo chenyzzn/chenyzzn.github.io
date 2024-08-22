@@ -37,16 +37,17 @@ I love experimenting with new AI applications and diving into the latest tools a
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL**
+Feb 2023 - June 2023
 - Developed a comprehensive online library system using PHP, CSS, and HTML, with a MySQL database.
 - The system included robust backend functionalities such as administrator account management, inventory tracking, and member data management. On the client side, the system featured secure account registration and login, a fully integrated shopping cart, and seamless payment processing.
 - Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
   
-[Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
+Integrating SDGs Environmental Awareness into Campus AR Game Design
 
-**Using PHP, MySQL**
-- Developed a comprehensive online library system using PHP, CSS, and HTML, with a MySQL database.
-- The system included robust backend functionalities such as administrator account management, inventory tracking, and member data management. On the client side, the system featured secure account registration and login, a fully integrated shopping cart, and seamless payment processing.
-- Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
+**Using C#, Unity**
+Feb 2024 - June 2024
+- Created an augmented reality adventure game in Unity using C\#, integrating Sustainable Development Goals (SDGs) with campus environmental themes.
+- Directed the conceptualization and design of all game levels, ensuring seamless integration with environmental topics, and handled all C\# coding tasks to bring the project to life.
 <br />
 <br />
 <br />
