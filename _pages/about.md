@@ -27,6 +27,10 @@ What excites me most about AI is its potential to revolutionize industries and c
 I love experimenting with new AI applications and diving into the latest tools and techniques, always on the lookout for innovative ways to contribute to this dynamic field. I'm thrilled to be in part of the development of AI, eagering to see where it leads and how I can make a difference along the way. 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
 # 📝 Publications 
 
@@ -45,18 +49,36 @@ I love experimenting with new AI applications and diving into the latest tools a
 - Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
 <br />
 <br />
+<br />
+<br />
+<br />
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # 📖 Educations
 <a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a>  Department of Transportation & Logistics Management
 Sept. 2021 - Present 
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # 💻 Internships
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a>  Department of Transportation & Logistics Management
