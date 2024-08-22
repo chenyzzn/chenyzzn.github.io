@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.
+** Hi. I'm Vanessa Chen ! **
+<p> </p>
+I am an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.
 
 What excites me most about AI is its potential to revolutionize industries and create meaningful impact in everyday lives. From enhancing solutions to driving sustainable practices, I believe AI holds the key to addressing some of the most significant challenges we face today.
 
