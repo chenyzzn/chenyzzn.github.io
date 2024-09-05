@@ -82,7 +82,7 @@ h1:before, .anchor:before {
     position: relative; 
     width: 0; 
     height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+    margin-top: - $scroll_offset;
 }
 
 .badge {
