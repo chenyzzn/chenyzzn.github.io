@@ -30,24 +30,42 @@ I love experimenting with new AI applications and diving into the latest tools a
 <br /><br />
 
 # Skills
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
+- Programming Languages: Python, C++, C\#, PHP
+- Web Technologies: HTML, CSS, JavaScript
+- Database Systems: MySQL
+- Data Science & Machine Learning: Python, R, CRNN model
+- Research Skills: Statistical Analysis, Hypothesis Testing, Problem Optimization}
+- Other Skills: Unity, Blender, Autodesk Fushion360
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
 # Education
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 <a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a> <br />
-Department of Transportation & Logistics Management Sept.                2021 - Present 
+Department of Transportation & Logistics Management Sept.                2021 - Present
+- Cumulative GPA: 3.45/4.3, last60 GPA: 3.92/4.3
+- Relevant Modules: Introduction to Computer Science, Linear Algebra, Computer Programming, Macro Program Development and Application, Database management, Statistics, Exploration of Robotics and Artificial Intelligence Systems, Bionic Technology, Algorithm (present)
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
 # Experience
-<a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a>  Department of Transportation & Logistics Management
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
+<a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a> 
 May 2024 - Present
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 # Research
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<br /><br /><br /><br /><br /><br />
+<br /><br /><br />
+**Optimized Application of Drones in Humanitarian Aid**
+Department of Transportation & Logistics Management May 2024 - Present
+- The research aims to optimize rescue routes for autonomous taxis, utilizing mathematical modeling to enhance efficiency and minimize response times in emergency situations.
+- As the team leader, I played a pivotal role in designing the research framework, synthesizing key insights from team members, and driving the project's overall direction, implementing the mathematical model, leading to significant advancements in route optimization.
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
