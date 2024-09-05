@@ -21,7 +21,6 @@ redirect_from:
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
-<br />
 <h3> Hi. I'm Vanessa Chen ! </h3>
 I am an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.
 
@@ -36,8 +35,7 @@ I love experimenting with new AI applications and diving into the latest tools a
 
 # 📝 Publications 
 <br /><br /><br />
-<br /><br /><br />
-<br />
+<br /><br />
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL**
@@ -47,8 +45,7 @@ Feb 2023 - June 2023
 - Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
 
 <br /><br /><br />
-<br /><br /><br />
-<br />
+<br /><br />
 Integrating SDGs Environmental Awareness into Campus AR Game Design
 
 **Using C#, Unity**
