@@ -31,9 +31,9 @@ I love experimenting with new AI applications and diving into the latest tools a
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
-<br />
+<br /><br />
 
-# 📝 Publications 
+# Publications 
 <br /><br /><br />
 <br /><br />
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
@@ -56,27 +56,27 @@ Feb 2024 - June 2024
 <br /><br /><br />
 <br /><br /><br />
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
 
-# 📖 Educations
+# Educations
 <a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a> <br />
 Department of Transportation & Logistics Management Sept.                2021 - Present 
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
 
-# 💻 Internships
+# Internships
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a>  Department of Transportation & Logistics Management
 May 2024 - Present 
