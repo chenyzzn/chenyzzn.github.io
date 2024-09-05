@@ -46,7 +46,7 @@ I love experimenting with new AI applications and diving into the latest tools a
   <br />
 - **Other Skills** : Unity, Blender, Autodesk Fushion360
 <br /><br /><br /><br /><br /><br />
-<br /><br />
+<br /><br /><br /><br /><br />
 
 # Education
 <br /><br /><br /><br /><br /><br />
@@ -56,7 +56,7 @@ Department of Transportation & Logistics Management Sept. &emsp;&emsp;&emsp;&ems
 - Cumulative GPA: 3.45/4.3, last60 GPA: 3.92/4.3
 - Relevant Modules: Introduction to Computer Science, Linear Algebra, Computer Programming, Macro Program Development and Application, Database management, Statistics, Exploration of Robotics and Artificial Intelligence Systems, Bionic Technology, Algorithm (present)
 <br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 # Experience
 <br /><br /><br /><br /><br /><br />
@@ -84,10 +84,10 @@ Department of Transportation & Logistics Management May 2024 - Present
 - The research aims to optimize rescue routes for autonomous taxis, utilizing mathematical modeling to enhance efficiency and minimize response times in emergency situations.
 - As the team leader, I played a pivotal role in designing the research framework, synthesizing key insights from team members, and driving the project's overall direction, implementing the mathematical model, leading to significant advancements in route optimization.
 <br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 
 # Project
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL**
@@ -96,7 +96,7 @@ Feb 2023 - June 2023
 - The system included robust backend functionalities such as administrator account management, inventory tracking, and member data management. On the client side, the system featured secure account registration and login, a fully integrated shopping cart, and seamless payment processing.
 - Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 Integrating SDGs Environmental Awareness into Campus AR Game Design
 
 **Using C#, Unity**
