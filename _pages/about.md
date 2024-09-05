@@ -37,7 +37,7 @@ I love experimenting with new AI applications and diving into the latest tools a
 # 📝 Publications 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
+<br />
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL**
@@ -48,7 +48,7 @@ Feb 2023 - June 2023
 
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
+<br />
 Integrating SDGs Environmental Awareness into Campus AR Game Design
 
 **Using C#, Unity**
