@@ -21,7 +21,7 @@ redirect_from:
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
+<br />
 <h3> Hi. I'm Vanessa Chen ! </h3>
 I am an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.
 
