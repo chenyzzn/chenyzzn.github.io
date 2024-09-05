@@ -67,8 +67,8 @@ Feb 2024 - June 2024
 <br /><br /><br />
 
 # 📖 Educations
-<a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a>  Department of Transportation & Logistics Management
-Sept. 2021 - Present 
+<a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**<br />
+Department of Transportation & Logistics Management Sept. </a></a></a> 2021 - Present 
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
