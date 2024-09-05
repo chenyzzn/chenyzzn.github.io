@@ -20,18 +20,18 @@ redirect_from:
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
-<h3> Hi. I'm Vanessa Chen ! </h3>
-I am an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.
+<br />
+<h3> Hi. I'm Vanessa Chen ! </h3><br />
+I am an adventurous soul with an insatiable curiosity, particularly when it comes to AI, big data science, and software development. My journey into the world of AI began during my academic years, where the endless possibilities of machine learning and algorithms captured my imagination.<br />
 
-What excites me most about AI is its potential to revolutionize industries and create meaningful impact in everyday lives. From enhancing solutions to driving sustainable practices, I believe AI holds the key to addressing some of the most significant challenges we face today.
+What excites me most about AI is its potential to revolutionize industries and create meaningful impact in everyday lives. From enhancing solutions to driving sustainable practices, I believe AI holds the key to addressing some of the most significant challenges we face today.<br />
 
 I love experimenting with new AI applications and diving into the latest tools and techniques, always on the lookout for innovative ways to contribute to this dynamic field. I'm thrilled to be in part of the development of AI, eagering to see where it leads and how I can make a difference along the way. 
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
-<br /><br /><br />
+<br />
 
 # 📝 Publications 
 <br /><br /><br />
@@ -64,8 +64,8 @@ Feb 2024 - June 2024
 <br /><br /><br />
 
 # 📖 Educations
-<a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**<br />
-Department of Transportation & Logistics Management Sept. </a></a></a> 2021 - Present 
+<a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a> <br />
+Department of Transportation & Logistics Management Sept.                2021 - Present 
 <br /><br /><br />
 <br /><br /><br />
 <br /><br /><br />
