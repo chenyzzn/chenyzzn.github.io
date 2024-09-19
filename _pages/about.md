@@ -73,7 +73,19 @@ Image Detection Assistant Engineer, AI Video Image Detection Group <br />
 - Utilized Python to train a Convolutional Recurrent Neural Network (CRNN) model specifically designed for the accurate extraction of driver’s license information from AI-generated images for transportation companies. This project involved extensive data preprocessing, model training, and validation to ensure the reliability and precision of the recognition process.
 -As the project lead, I guided the team through the development lifecycle, fostering collaboration and innovation to enhance the model's capabilities. Continuously optimized the recognition functionality by fine-tuning hyperparameters and integrating advanced algorithms, resulting in a remarkable 170% improvement in the model’s identification accuracy.
 - This enhancement not only improved accuracy but also led to a fivefold increase in processing speed compared to traditional manual data entry methods. Consequently, this innovation significantly reduced labor costs and time expenditures, allowing transportation companies to streamline their operations and allocate resources more effectively.
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
+
+**Handuo Tutoring Center**<br />
+Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; July 2022 - Oct. 2023 <br />
+Academic Instructor <br />
+- Designed and delivered after-school programs and test preparation services for junior high school students, effectively assisting them in achieving improved academic performance.
+<br /><br />
+
+**Kaohsiung Alumni Association**<br />
+Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2022-Aug. 2023 <br />
+Public Relations and Event support officer <br />
+
+<br /><br /><br />
 
 # Research
 <br /><br /><br /><br /><br /><br />
