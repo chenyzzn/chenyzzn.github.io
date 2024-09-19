@@ -64,15 +64,16 @@ Department of Transportation & Logistics Management Sept. &emsp;&emsp;&emsp;&ems
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a><br />
 Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2024 - Present<br />
 Technology logistics Engineer, Technology logistics and supply chain Group<br />
-- Played a key role in the production operations of the nation's sole Automated Guided Vehicles (AGVs) manufacturing initiative.
-- Spearheaded the optimization of C\# and PLC software, ensuring enhanced performance and reliability of AGV systems.
+- Participated in the operational processes of the nation's only Automated Guided Vehicles (AGVs) manufacturing project, with a primary focus on optimizing C# and PLC software to enhance system performance. This role involved collaborating with cross-functional teams to analyze system requirements, identify areas for improvement, and implement software solutions that maximize efficiency and reliability.
+- In addressing the challenge of unstable battery voltage, I developed and implemented a solution that transformed complex data into a user-friendly power display interface. This enhancement significantly improved real-time monitoring capabilities, enabling operators to easily track power levels and identify potential issues. As a result, overall system reliability was greatly improved, leading to more efficient operation and reduced downtime for the AGVs.
 <br /><br />
 
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a><br />
 Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; June 2024 - Sept. 2024 <br />
 Image Detection Assistant Engineer, AI Video Image Detection Group <br />
-- Trained CRNN model in Python for precise image recognition of licences. 
-- Led continuous improvements that enhanced the model's recognition speed by approximately 567\% and accuracy by 170\%, achieving image identification within 0.3 seconds.
+- Utilized Python to train a Convolutional Recurrent Neural Network (CRNN) model specifically designed for the accurate extraction of driver’s license information from AI-generated images for transportation companies. This project involved extensive data preprocessing, model training, and validation to ensure the reliability and precision of the recognition process.
+-As the project lead, I guided the team through the development lifecycle, fostering collaboration and innovation to enhance the model's capabilities. Continuously optimized the recognition functionality by fine-tuning hyperparameters and integrating advanced algorithms, resulting in a remarkable 170% improvement in the model’s identification accuracy.
+- This enhancement not only improved accuracy but also led to a fivefold increase in processing speed compared to traditional manual data entry methods. Consequently, this innovation significantly reduced labor costs and time expenditures, allowing transportation companies to streamline their operations and allocate resources more effectively.
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
@@ -92,9 +93,9 @@ Department of Transportation & Logistics Management May 2024 - Present
 
 **Using PHP, MySQL**
 Feb 2023 - June 2023
-- Developed a comprehensive online library system using PHP, CSS, and HTML, with a MySQL database.
-- The system included robust backend functionalities such as administrator account management, inventory tracking, and member data management. On the client side, the system featured secure account registration and login, a fully integrated shopping cart, and seamless payment processing.
-- Led the team in conceptualizing the project theme, while overseeing the coding of administrative functions and coordinating overall project management to ensure successful execution.
+- Developed a comprehensive online library system utilizing PHP, CSS, and HTML, supported by a MySQL database. This system was architected to provide a robust framework that facilitates seamless management of library operations, ensuring reliability and scalability to meet user demands.
+- Implemented advanced back-end functionalities that empower both administrators and users. Key features include administrator account management for overseeing user activities, inventory tracking to maintain accurate records of library assets, and member profile management to enhance user engagement. The client-side interface was designed with a focus on user experience, incorporating secure account registration and login processes, an integrated shopping cart for easy access to resources, and reliable payment processing to streamline transactions.
+- Directed the team in defining the project’s theme and strategic direction, fostering collaboration and innovation throughout the development process. Actively supervised progress while coordinating tasks across development, design, and testing phases to ensure timely and successful project completion. Through continuous refinement of system instructions, effectively addressed and resolved connectivity issues between different software windows, significantly enhancing overall system integration and performance.
 
 <br /><br /><br /><br />
 Integrating SDGs Environmental Awareness into Campus AR Game Design
