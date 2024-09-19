@@ -59,7 +59,7 @@ Department of Transportation & Logistics Management Sept. &emsp;&emsp;&emsp;&ems
 <br /><br /><br /><br /><br /><br /><br />
 
 # Experience
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a><br />
 Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2024 - Present<br />
 Technology logistics Engineer, Technology logistics and supply chain Group<br />
@@ -100,5 +100,4 @@ Integrating SDGs Environmental Awareness into Campus AR Game Design
 **Using C#, Unity** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2024 - June 2024
 - Created an augmented reality adventure game in Unity using C\#, integrating Sustainable Development Goals (SDGs) with campus environmental themes.
 - Directed the conceptualization and design of all game levels, ensuring seamless integration with environmental topics, and handled all C\# coding tasks to bring the project to life.
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
