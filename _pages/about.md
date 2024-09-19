@@ -98,6 +98,7 @@ Department of Transportation & Logistics Management &emsp;&emsp;&emsp;&emsp;&ems
 Integrating SDGs Environmental Awareness into Campus AR Game Design
 
 **Using C#, Unity** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2024 - June 2024
-- Created an augmented reality adventure game in Unity using C\#, integrating Sustainable Development Goals (SDGs) with campus environmental themes.
-- Directed the conceptualization and design of all game levels, ensuring seamless integration with environmental topics, and handled all C\# coding tasks to bring the project to life.
+- Developed an innovative augmented reality adventure game in Unity, utilizing C# to integrate Sustainable Development Goals (SDGs) with themes related to campus environmental initiatives. This project aimed to engage players in an immersive experience that promotes awareness of environmental issues and sustainability.
+- As the project leader, I directed the conceptualization and design of all game levels, ensuring that each level seamlessly incorporated relevant environmental topics and educational elements. I collaborated closely with team members to brainstorm ideas and refine the gameplay mechanics, ensuring that the game not only entertained but also educated players about sustainability.
+- Additionally, I managed all aspects of C# coding, translating the game design into functional and interactive elements. This included implementing user interfaces, developing character interactions, and optimizing performance to provide a smooth gaming experience. Through this project, I aimed to foster a deeper understanding of environmental challenges while providing an engaging platform for players to explore and learn.
 <br /><br /><br /><br /><br /><br /><br /><br />
