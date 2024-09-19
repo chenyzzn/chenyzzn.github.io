@@ -50,17 +50,16 @@ I love experimenting with new AI applications and diving into the latest tools a
 
 # Education
 <br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br />
 <a href="https://tlm.nycu.edu.tw/en/"> **National Yang Ming Chiao Tung University**</a> <br />
 Department of Transportation & Logistics Management Sept. &emsp;&emsp;&emsp;&emsp; 2021 - Present
 - Cumulative GPA: 3.45/4.3, last60 GPA: 3.92/4.3
 - Relevant Modules: Introduction to Computer Science, Linear Algebra, Computer Programming, Macro Program Development and Application, Database management, Statistics, Exploration of Robotics and Artificial Intelligence Systems, Bionic Technology, Algorithm (present)
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 # Experience
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a><br />
 Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2024 - Present<br />
 Technology logistics Engineer, Technology logistics and supply chain Group<br />
@@ -74,8 +73,7 @@ Image Detection Assistant Engineer, AI Video Image Detection Group <br />
 - Utilized Python to train a Convolutional Recurrent Neural Network (CRNN) model specifically designed for the accurate extraction of driver’s license information from AI-generated images for transportation companies. This project involved extensive data preprocessing, model training, and validation to ensure the reliability and precision of the recognition process.
 -As the project lead, I guided the team through the development lifecycle, fostering collaboration and innovation to enhance the model's capabilities. Continuously optimized the recognition functionality by fine-tuning hyperparameters and integrating advanced algorithms, resulting in a remarkable 170% improvement in the model’s identification accuracy.
 - This enhancement not only improved accuracy but also led to a fivefold increase in processing speed compared to traditional manual data entry methods. Consequently, this innovation significantly reduced labor costs and time expenditures, allowing transportation companies to streamline their operations and allocate resources more effectively.
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 # Research
 <br /><br /><br /><br /><br /><br />
@@ -97,7 +95,7 @@ Feb 2023 - June 2023
 - Implemented advanced back-end functionalities that empower both administrators and users. Key features include administrator account management for overseeing user activities, inventory tracking to maintain accurate records of library assets, and member profile management to enhance user engagement. The client-side interface was designed with a focus on user experience, incorporating secure account registration and login processes, an integrated shopping cart for easy access to resources, and reliable payment processing to streamline transactions.
 - Directed the team in defining the project’s theme and strategic direction, fostering collaboration and innovation throughout the development process. Actively supervised progress while coordinating tasks across development, design, and testing phases to ensure timely and successful project completion. Through continuous refinement of system instructions, effectively addressed and resolved connectivity issues between different software windows, significantly enhancing overall system integration and performance.
 
-<br /><br /><br /><br />
+<br /><br />
 Integrating SDGs Environmental Awareness into Campus AR Game Design
 
 **Using C#, Unity**
