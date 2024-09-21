@@ -59,7 +59,7 @@ Department of Transportation & Logistics Management Sept. &emsp;&emsp;&emsp;&ems
 <br /><br /><br /><br /><br /><br /><br />
 
 # Experience
-<br /><br /><br /><br /><br />
+<br /><br />
 <a href="https://www.itri.org.tw/english/"> **Industrial Technology Research Institute**</a><br />
 Hsinchu, Taiwan &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept. 2024 - Present<br />
 Technology logistics Engineer, Technology logistics and supply chain Group<br />
@@ -88,17 +88,17 @@ Public Relations and Event support officer <br />
 <br /><br /><br />
 
 # Research
-<br /><br /><br /><br /><br /><br />
-<br /><br /><br />
+<br /><br /><br /><br />
 **Optimized Application of Drones in Humanitarian Aid** <br />
 Department of Transportation & Logistics Management &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; May 2024 - Present
-- The research aims to optimize rescue routes for autonomous taxis, utilizing mathematical modeling to enhance efficiency and minimize response times in emergency situations.
-- As the team leader, I played a pivotal role in designing the research framework, synthesizing key insights from team members, and driving the project's overall direction, implementing the mathematical model, leading to significant advancements in route optimization.
+- This research centers on optimizing UAV rescue routes in emergency scenarios using the **Gurobi Optimizer**, a cutting-edge prescriptive analytics platform. The goal is to enhance operational efficiency by minimizing response times, flight distances, and operational costs through advanced mathematical modeling. In critical situations such as natural disasters, UAVs provide essential services like damage assessment, supply delivery, and search-and-rescue missions. However, optimizing their routes presents complex challenges, making this research a valuable contribution to improving the efficacy of UAV deployments.
+- As the team leader, I was responsible for formulating the research objectives and defining the methodology. The central objective was to leverage mathematical models and real-time data to optimize UAV flight paths for rescue operations. I coordinated with the team to integrate expertise from various domains, including UAV technology, emergency management, and prescriptive analytics. We focused on gathering critical data such as terrain features, weather patterns, and UAV operational constraints, which were incorporated into the Gurobi Optimizer. By synthesizing team insights, I guided the project’s strategic direction, ensuring that the methodology was robust and aligned with the overarching goal of improving UAV rescue operations.
+- One of the most challenging aspects of the research was resolving conflicting constraints, such as balancing battery life with the need for extended flight range, and covering critical areas while avoiding redundancy. These issues required complex decision-making, and as a team, we prioritized objectives based on the mission’s key requirements—speed, efficiency, and safety. To address these conflicts, I led discussions to integrate multiple objectives within the mathematical model, ensuring that we could find optimal solutions even under varying conditions. Through collaborative problem-solving, the team developed strategies to sequence tasks and allocate UAVs to minimize overlap, while maximizing coverage. This comprehensive assessment allowed us to maintain operational efficiency and adaptability in real-time, ensuring the model’s success in dynamic emergency environments.
 <br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 
 # Project
-<br /><br /><br /><br />
+<br /><br />
 [Book Warehousing System]((https://github.com/chenyzzn/BookWarehousingSystem))
 
 **Using PHP, MySQL** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Feb 2023 - June 2023
