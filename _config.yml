@@ -1,5 +1,5 @@
 # Site Settings
-title                    : "Yu-Chen Chen | Vanessa Chen"
+title                    : "Yu-Chen Chen | Kristen Chen"
 description              : 
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -9,7 +9,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Yu-Chen Chen"
   avatar           : "images/profile.png"
-  bio              : "Vanessa Chen"
+  bio              : "Kristen Chen"
   location         : "Hsinchu, Taiwan"
   employer         :
   pubmed           : 
